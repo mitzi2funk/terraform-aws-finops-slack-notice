@@ -1,0 +1,1 @@
+bucket = "finops-stg-terraform"
